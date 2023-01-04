@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "HONG KONG, SAR"
-title                    : "Junhong LIU"
+title                    : "Junhong Liu"
 title_separator          : "-"
-name                     : &name "Junhong LIU"
+name                     : &name "Junhong Liu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junhong LIU"
+  name             : "Junhong Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student @ EEE, HKU"
   location         : "HONG KONG, SAR"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
