@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junhong Liu"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
