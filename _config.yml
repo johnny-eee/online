@@ -9,7 +9,7 @@
 locale                   : "HONG KONG, SAR"
 title                    : ""
 title_separator          : ""
-name                     : &name ""
+name                     : &name "Junhong Liu"
 description              : &description "personal description"
 url                      : https://fishermanljh.github.io/online/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
