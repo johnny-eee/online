@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Research Experience"
+    url: /year-archive/
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,11 +18,7 @@ main:
         
   - title: "CV"
     url: /cv/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-
+   
     
  # - title: "Guide"
  #   url: /markdown/
