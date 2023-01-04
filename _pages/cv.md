@@ -30,5 +30,5 @@ Work & Internship experiences
   
 Skills
 ======
-* Golang, Python, Mathmatical Programmiing
+* Golang, Python, Mathmatical Programming
   
