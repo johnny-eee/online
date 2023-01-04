@@ -11,9 +11,9 @@ title                    : ""
 title_separator          : ""
 name                     : &name ""
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : hhttp://johnny-liu.site/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "http://johnny-liu.site/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Junhong Liu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. student @ EEE, HKU"
   location         : "HONG KONG, SAR"
   employer         :
