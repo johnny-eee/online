@@ -15,7 +15,7 @@ Education
 * M.S. in Engineering Physics, Tsinghua University, 2017~2019
 * B.S. in Energy & Power Engineering, Huazhong University of Science and Technology, 2013~2017
 
-Teaching assistant
+Teaching Assistant
 ======
 * MEBS6001 Electrical installations [Section 1A], 2022
 * ELEC4146 Building services-electrical installations [Section 1A], 2022
