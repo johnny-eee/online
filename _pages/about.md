@@ -20,4 +20,4 @@ Research Interests
 Recent News
 ======
 * Jan 4, 2023: Lightweight privacy-preserving approach for P2P energy trading
-* July 22, 2020: I was awarded the Presidential PhD Scholarship to pursue a Ph.D. at HKU. 
+* July 22, 2020: I was awarded the Presidential Scholarship to pursue a Ph.D. at HKU. 
