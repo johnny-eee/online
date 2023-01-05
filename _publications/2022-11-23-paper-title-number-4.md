@@ -1,7 +1,7 @@
 ---
 title: "Two-Stage Submodular Optimization of Dynamic Thermal Rating for Risk Mitigation Considering Placement and Operation Schedule"
 collection: publications
-permalink: /publication/2022-09-20-paper-title-number-5
+permalink: /publication/2022-09-20-paper-title-number-4
 excerpt: 'Thus, the present work proposes a novel two-stage submodular optimization (TSSO) of DTR for risk mitigation considering placement and operation schedule.'
 date: 2022-09-20
 venue: 'arXiv:2209.09708'
