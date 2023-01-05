@@ -1,7 +1,7 @@
 ---
 title: "Inverse uncertainty quantification of CTF physical model parameters using Bayesian inference"
 collection: publications
-permalink: /publication/2019-05-19-paper-title-number-2
+permalink: /publication/2019-05-19-paper-title-number-3
 excerpt: 'This work illustrates a quantitative uncertainty analysis of CTF, one thermal-hydraulics sub-channel code for nuclear engineering applications.'
 date: 2019-05-19
 venue: 'ICONE'
