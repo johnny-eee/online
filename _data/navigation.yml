@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  #- title: "Research Blogs"
-  #  url: /year-archive/
+  - title: "Research Blogs"
+    url: /year-archive/
     
   - title: "Publications"
     url: /publications/
