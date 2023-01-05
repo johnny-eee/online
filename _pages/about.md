@@ -19,4 +19,4 @@ Research Interests
 
 Recent News
 ======
-* Jan 4, 2023  
+* Jan 4, 2023 Lightweight privacy-preserving approach for P2P energy trading
