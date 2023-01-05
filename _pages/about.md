@@ -19,4 +19,5 @@ Research Interests
 
 Recent News
 ======
+* Oct. 23, 2022: A paper was accepted by Applied Energy. 
 * July 22, 2020: I was awarded the Presidential Scholarship to pursue the Ph.D. at HKU. 
