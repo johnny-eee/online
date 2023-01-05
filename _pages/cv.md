@@ -19,7 +19,7 @@ Education
 #Internship experiences
 #======
 #* Summer 07/2016~08/2016: Sichuan Air Separation Plant Group Co., Ltd.
-#  * Duties included: Design key components for the KZON-150/550 plant, i.e., heat exchangers
+#* Duties included: Design key components for the KZON-150/550 plant, i.e., heat exchangers
 
   
 Skills
