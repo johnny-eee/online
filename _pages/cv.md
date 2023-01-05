@@ -16,17 +16,12 @@ Education
 * B.S. in Energy & Power Engineering, Huazhong University of Science and Technology, 2013~2017
 
 
-Work & Internship experiences
+Internship experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 07/2016~08/2016: Research Assistant
+  * Sichuan Air Separation Plant Group Co., Ltd.
+  * Duties included: Design key components for the KZON-150/550 plant like heat exchangers
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
