@@ -19,5 +19,5 @@ Research Interests
 
 Recent News
 ======
-* Oct. 23, 2022: The paper "Online distributed optimization for spatio-temporally constrained real-time peer-to-peer energy trading" was accepted by Applied Energy. 
-* July 22, 2020: I was awarded the Presidential Scholarship to pursue the Ph.D. at HKU. 
+* Oct. 23, 2022: The paper "Online distributed optimization for spatio-temporally constrained real-time peer-to-peer energy trading" is accepted by Applied Energy. 
+* July 22, 2020: I am awarded the Presidential Scholarship to pursue the Ph.D. at HKU. 
