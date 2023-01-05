@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a cross background in energy and power industry including the power generation. thermodynamics, hydromechanics
+My background mainly lies in the energy and power industry, including the generation, transmission, and distribution of electricity. I am also familiar with the multi-energy systems including cooling, heat and electricity integrated systems. My current research orientations are as follows. 
 
 
 Research Interests
