@@ -15,4 +15,4 @@ Research Interests
 ======
 1. Pee-to-peer energy market, distributed demand response
 2. Large-scale dsitributed optimization, bilevel distributed optimization, online optimization
-3. Privacy-preservaton, applied cryptography, Blockchain techonology
+3. Privacy-preservation, applied cryptography, Blockchain techonology
