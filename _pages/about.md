@@ -14,7 +14,7 @@ I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](h
 Research Interests
 ======
 1. Pee-to-peer energy market, distributed demand response
-2. Large-scale dsitributed optimization, bilevel distributed optimization, online optimization
+2. Large-scale distributed optimization, bilevel distributed optimization, online optimization
 3. Privacy-preservation, applied cryptography, Blockchain techonology
 
 Recent News
