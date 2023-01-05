@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and co-supervised by [Prof. David J. Hill](https://www.eee.hku.hk/people/dhill/). My academic background mainly lies in the energy sector, including the generation, delivery, and consumption of energy. Specifically, I am familiar with the cooling, heat, and electricity integrated multi-energy systems. My current research orientations are as follows:
+I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and co-supervised by [Prof. David J. Hill](https://www.eee.hku.hk/people/dhill/). My academic background mainly lies in the energy sector, including the generation, delivery, and consumption of energy. Specifically, I am familiar with the cooling, heat, and electricity integrated multi-energy systems. My present research orientations are as follows:
 
 
 Research Interests
