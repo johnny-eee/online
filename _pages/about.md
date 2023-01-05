@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My background mainly lies in the energy and power industry, including the generation, transmission, and distribution of electricity. I am also familiar with the multi-energy systems including cooling, heat and electricity integrated systems. My current research orientations are as follows. 
+My academic background mainly lies in the energy and power industry, including the generation, transmission, distribution, and consumption of energy. Meanwhile, I am familiar with the cooling, heat, and electricity integrated multi-energy systems. My current research orientations are as follows.
 
 
 Research Interests
