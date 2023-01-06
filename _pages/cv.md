@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-
 Education
 ======
 * Ph.D. in Electrical & Electronic Engineering, The University of Hong Kong, 2020~2024 (expected)
