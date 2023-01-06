@@ -6,5 +6,5 @@ excerpt: 'Cascading failure poses a significant risk to society. One approach to
 date: 2022-01-25
 venue: 'IEEE Transactions on Power Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9893388'
-citation: 'Long, Qinfei, Junhong Liu, Feng Liu, and Yunhe Hou. "Submodular Optimization of Dynamic Thermal Rating for Cascading Failure Risk Mitigation Considering Braess Paradox." IEEE Transactions on Power Systems (2022).'
+citation: 'Qinfei Long, Junhong Liu, Feng Liu, and Yunhe Hou. "Submodular Optimization of Dynamic Thermal Rating for Cascading Failure Risk Mitigation Considering Braess Paradox." IEEE Transactions on Power Systems (2022).'
 ---
