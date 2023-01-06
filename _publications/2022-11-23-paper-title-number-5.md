@@ -7,5 +7,5 @@ privacy leakage issues arising from the fully distributed P2P energy trading, th
 date: 2022-12-01
 venue: 'IEEE Transactions on Smart Grid (under review)'
 paperurl: ' '
-citation: 'Liu, Junhong, Qinfei Long, Rong-Peng Liu, Wenjie Liu, Xin Cui, and Yunhe Hou. "A Hybrid Privacy-Preserving Approach for Fully Distributed Peer-to-Peer Energy Trading."'
+citation: 'Junhong Liu, Qinfei Long, Rong-Peng Liu, Wenjie Liu, Xin Cui, and Yunhe Hou. "A Hybrid Privacy-Preserving Approach for Fully Distributed Peer-to-Peer Energy Trading."'
 ---
