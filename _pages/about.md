@@ -21,8 +21,3 @@ Education
 * Ph.D. in Electrical & Electronic Engineering, The University of Hong Kong, 2024 (expected)
 * M.S. in Engineering Physics, Tsinghua University, 2019
 * B.S. in Energy & Power Engineering, Huazhong University of Science and Technology, 2017
-
-//Recent News
-//======
-//* Oct. 23, 2022: The paper "Online distributed optimization for spatio-temporally constrained real-time peer-to-peer energy trading" is accepted by Applied //Energy. 
-//* Jul. 22, 2020: I am awarded the HKU-Presidential Scholarship to start pursuing the Ph.D. at HKU.
