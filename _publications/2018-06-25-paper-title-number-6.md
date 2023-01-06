@@ -6,5 +6,5 @@ excerpt: 'The fast neutron reactor, one of the promising generation-IV nuclear r
 date: 2018-06-25
 venue: 'Applied Thermal Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1359431117374860'
-citation: 'Liu, Yuhao, Dawei Cui, Jiming Lin, Junhong Liu, Chao Li, Shanfang Huang, Zhenqin Xiong, and Huaqiang Yin. "Experimental study on steady-state heat transfer characteristics of the Nozzle-atomized dispersed flow." Applied Thermal Engineering 140 (2018): 686-695."'
+citation: 'Yuhao Liu, Dawei Cui, Jiming Lin, Junhong Liu, Chao Li, Shanfang Huang, Zhenqin Xiong, and Huaqiang Yin. "Experimental study on steady-state heat transfer characteristics of the Nozzle-atomized dispersed flow." Applied Thermal Engineering 140 (2018): 686-695."'
 ---
