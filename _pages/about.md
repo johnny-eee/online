@@ -18,9 +18,9 @@ Research Interests
 
 Education
 ======
-* Ph.D. in Electrical & Electronic Engineering, The University of Hong Kong, 2020~2024 (expected)
-* M.S. in Engineering Physics, Tsinghua University, 2017~2019
-* B.S. in Energy & Power Engineering, Huazhong University of Science and Technology, 2013~2017
+* Ph.D. in Electrical & Electronic Engineering, The University of Hong Kong, 2024 (expected)
+* M.S. in Engineering Physics, Tsinghua University, 2019
+* B.S. in Energy & Power Engineering, Huazhong University of Science and Technology, 2017
 
 //Recent News
 //======
