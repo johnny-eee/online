@@ -4,8 +4,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research Blogs"
-    url: /year-archive/
+  #- title: "Research Blogs"
+  #  url: /year-archive/
     
   #- title: "Talks"
   #  url: /talks/    
