@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/). My academic background mainly lies in the energy sector, including the generation, delivery, and consumption of energy.
+I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/).
 
 ## Education
 
