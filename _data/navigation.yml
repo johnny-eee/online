@@ -1,8 +1,8 @@
 # main links links
 main:
   
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   #- title: "Research Blogs"
   #  url: /year-archive/
@@ -16,8 +16,8 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
- # - title: "CV"
- #   url: /cv/
+  - title: "Publications"
+    url: /cv/
    
     
  # - title: "Guide"
