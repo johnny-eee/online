@@ -8,20 +8,14 @@ redirect_from:
 ---
 
 
-Education
+2023
 ======
-* Ph.D. in Electrical & Electronic Engineering, The University of Hong Kong, 2020~2024 (expected)
-* M.S. in Engineering Physics, Tsinghua University, 2017~2019
-* B.S. in Energy & Power Engineering, Huazhong University of Science and Technology, 2013~2017
+**Liu, Junhong**, Qinfei Long, Rong-Peng Liu, Wenjie Liu, and Yunhe Hou. ["Online Distributed Optimization for Spatio-Temporally Constrained Real-Time Peer-to-Peer Energy Trading"](https://www.sciencedirect.com/science/article/abs/pii/S0306261922014738). Applied Energy 331 (2023): 120216.
 
-Teaching Assistant
+2022
 ======
-* MEBS6001 Electrical installations [Section 1A], 2022
-* ELEC4146 Building services-electrical installations [Section 1A], 2022
-* ELEC4146 Building services-electrical installations [Section 1A], 2021
-* ELEC6095 Smart grid [Section 1A], 2020
-  
-Skills
-======
-* Golang, Python, Mathmatical Programming
-  
+**Liu, Junhong**, Qinfei Long, Rong-Peng Liu, Wenjie Liu, and Yunhe Hou. ["A Hybrid Privacy-Preserving Approach for Fully Distributed P2P Energy Trading"]( ). Applied Energy 331 (2023): 120216.
+
+Long, Qinfei, **Junhong Liu**, Chenhao Ren, Wenqian Yin, Feng Liu, and Yunhe Hou. ["Two-Stage Submodular Optimization of Dynamic Thermal Rating for Risk Mitigation Considering Placement and Operation Schedule"](https://arxiv.org/pdf/2209.09708.pdf). arXiv preprint arXiv:2209.09708 (2022).
+
+Long, Qinfei, **Junhong Liu**, Feng Liu, and Yunhe Hou. ["Submodular Optimization of Dynamic Thermal Rating for Cascading Failure Risk Mitigation Considering Braess Paradox"](https://ieeexplore.ieee.org/abstract/document/9893388). IEEE Transactions on Power Systems (2022).
