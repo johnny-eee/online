@@ -14,7 +14,7 @@ redirect_from:
 
 2022
 ======
-**Junhong Liu**, Qinfei Long, Rong-Peng Liu, Wenjie Liu, and Yunhe Hou. ["A Hybrid Privacy-Preserving Approach for Fully Distributed P2P Energy Trading"]( ). Under review.
+**Junhong Liu**, Qinfei Long, Rong-Peng Liu, Wenjie Liu, Xin Cui, and Yunhe Hou. ["A Hybrid Privacy-Preserving Approach for Fully Distributed P2P Energy Trading"]( ). Under review.
 
 Qinfei Long, **Junhong Liu**, Chenhao Ren, Wenqian Yin, Feng Liu, and Yunhe Hou. ["Two-Stage Submodular Optimization of Dynamic Thermal Rating for Risk Mitigation Considering Placement and Operation Schedule"](https://arxiv.org/pdf/2209.09708.pdf). arXiv preprint arXiv:2209.09708 (2022).
 
