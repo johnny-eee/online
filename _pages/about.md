@@ -12,7 +12,7 @@ I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](h
 
 ## Education
 
-* Ph.D. student in Electrical Engineering, The University of Hong Kong, since 2020
+* Ph.D. student in Department of Electrical and Electronic Engineering, The University of Hong Kong, since 2020
 * M.Eng. from Department of Engineering Physics, Tsinghua University, 2019
 * B.Eng. from Department of Energy & Power Engineering, Huazhong University of Science & Technology, 2017
 
