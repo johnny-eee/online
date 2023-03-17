@@ -10,8 +10,6 @@ redirect_from:
 
 2023
 ======
-Wenjie Liu, Yunjian Xu, **Junhong Liu**, Wenqian Yin, Yunhe Hou, Zaiyue Yang. ["Energy and Reserve Sharing Considering Uncertainty and Communication Resources"](https://www.sciencedirect.com/science/article/abs/pii/S0306261922014738). IEEE Internet of Things Journal (2023).
-
 **Junhong Liu**, Qinfei Long, Rong-Peng Liu, Wenjie Liu, and Yunhe Hou. ["Online Distributed Optimization for Spatio-Temporally Constrained Real-Time Peer-to-Peer Energy Trading"](https://www.sciencedirect.com/science/article/abs/pii/S0306261922014738). Applied Energy 331 (2023): 120216.
 
 2022
