@@ -12,7 +12,7 @@ redirect_from:
 ======
 **Junhong Liu**, Qinfei Long, Rong-Peng Liu, Wenjie Liu, Xin Cui, and Yunhe Hou. ["Privacy-Preserving P2P Energy Trading via Hybrid Secure Computations"]( ). Accepted by IEEE Transactions on Smart Grid.
 
-Qinfei Long, **Junhong Liu**, Chenhao Ren, Wenqian Yin, Feng Liu, and Yunhe Hou. ["Two-Stage Submodular Optimization of Dynamic Thermal Rating for Risk Mitigation Considering Placement and Operation Schedule"](https://ieeexplore.ieee.org/document/10164262). IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2023.3290000.
+Qinfei Long, **Junhong Liu**, Chenhao Ren, Wenqian Yin, Feng Liu, and Yunhe Hou. ["Two-Stage Submodular Optimization of Dynamic Thermal Rating for Risk Mitigation Considering Placement and Operation Schedule"](https://ieeexplore.ieee.org/document/10164262). IEEE Transactions on Power Systems (2023).
 
 Wenjie Liu, Yunjian Xu, **Junhong Liu**, Wenqian Yin, Yunhe Hou, and Zaiyue Yang. ["Energy and Reserve Sharing Considering Uncertainty and Communication Resources."](https://ieeexplore.ieee.org/document/10059119) IEEE Internet of Things Journal (2023).
 
