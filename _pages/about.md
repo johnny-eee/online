@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/).
+I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/).
 
 ## Education
 
