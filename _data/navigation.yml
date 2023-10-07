@@ -16,8 +16,8 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Publications"
-    url: /cv/
+ # - title: "Publications"
+ #   url: /cv/
    
     
  # - title: "Guide"
