@@ -86,9 +86,9 @@ author:
   location         : "Hong Kong, SAR"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Pm4WWGoAAAAJ&view_op=list_works"
   email            :  "jhliu@eee.hku.hk"
-  Google     :  "https://scholar.google.com/citations?hl=en&user=Pm4WWGoAAAAJ&view_op=list_works"
+  #Google          #:  "https://scholar.google.com/citations?hl=en&user=Pm4WWGoAAAAJ&view_op=list_works"
   uri              :
   bitbucket        :
   codepen          :
