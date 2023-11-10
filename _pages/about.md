@@ -16,10 +16,6 @@ I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.
 * M.S. from Department of Engineering Physics, Tsinghua University, 2019
 * B.Eng. from Department of Energy & Power Engineering, Huazhong University of Science & Technology, 2017
 
-## Experience
-
-* Visiting Ph.D. in Control and Power Group, Imperial College London, August 2023~Now
-
 ## Research Interests
 
 1. Peer-to-peer energy market, multi-energy systems
