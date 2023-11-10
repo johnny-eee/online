@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and [Prof. David J. Hill](https://www.eee.hku.hk/people/yhhou/).
+I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/).
 
 ## Education
 
@@ -18,7 +18,7 @@ I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.
 
 ## Experience
 
-* Visiting Ph.D. researcher in Control and Power Group, Imperial College London, August 2023~Now
+* Visiting Ph.D. in Control and Power Group, Imperial College London, August 2023~Now
 
 ## Research Interests
 
