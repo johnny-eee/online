@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and co-supervised by [Prof. David J. Hill](https://www.eee.hku.hk/people/dhill/). I was a visiting Ph.D. researcher at Imperial College London from Aug. 2023 to Jan. 2024, hosted by [Prof. Fei Teng](https://profiles.imperial.ac.uk/f.teng).
+I am currently a Ph.D. student @HKU supervised by [Prof. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/) and co-supervised by [Prof. David J. Hill](https://www.eee.hku.hk/people/dhill/).
 
 ## Education
 
