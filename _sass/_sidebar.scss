@@ -78,12 +78,12 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 45px;
-    height: 45px;
+    width: auto;
+    height: auto;
   }
 
   img {
-    max-width: 45px;
+    max-width: 145px;
     border-radius: 50%;
 
     @include breakpoint($large) {
